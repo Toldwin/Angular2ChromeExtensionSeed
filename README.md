@@ -14,7 +14,9 @@ Install the project module dependencies, go in the project folder : npm install
 To launch/use the extension directly in your browser as a standard web page, in the project folder use: ng serve
 
 To use project as an extension in Chrome: 
-- Build de project : ng build
+- Build de project (in the project folder): 
+  - npm install
+  - ng build
 - Open Chrome preferences
 - Choose "Parameters"
 - Select "Extensions" on the left
