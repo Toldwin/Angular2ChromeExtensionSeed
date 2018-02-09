@@ -1,5 +1,5 @@
 # Angular2ChromeExtensionSeed
-Seed of a Chrome extension using typescript Angular 2 (11/12/2016, v2.2.3) with angular cli 1.0.0-beta.22-1
+Seed of a Chrome extension using typescript Angular (09/02/2018, v5.2.0) with angular cli 1.6.8
 
 This project is based on the Google tutorial: https://angular.io/docs/ts/latest/quickstart.html, adds Angular-CLI typical project NPM managment and the extension CSP rights to allow Angular 2 execution. 
 
